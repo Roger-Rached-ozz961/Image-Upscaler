@@ -62,15 +62,13 @@ You can run the script in two ways:
 * It will extract text from the upscaled images using Tesseract OCR and save the text in .txt files inside the extracted_texts folder.
 * The script will prompt you every 10 seconds to manually trigger the scan or type 'exit' to quit the program.
 
-### Example Workflow:
+Example Workflow:
 
-Place images in the folder user images to upscale.
-Run the script.
-
-Script processes the images and saves the upscaled images and extracted text in the respective folders.
-Repeat the process every 10 seconds or press 'Enter' to scan images manually.
-
-
+* Place images in the folder user images to upscale.
+* Run the script.
+* Script processes the images and saves the upscaled images and extracted text in the respective folders.
+* Repeat the process every 10 seconds or press 'Enter' to scan images manually.
+* 
 ---
 
 ## License
