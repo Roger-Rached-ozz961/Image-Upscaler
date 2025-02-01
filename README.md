@@ -64,11 +64,11 @@ You can run the script in two ways:
 
 Example Workflow:
 
-* Place images in the folder user images to upscale.
-* Run the script.
+* Place images in the folder "user images to upscale".
+* Run the script by pressing 'Enter'.
 * Script processes the images and saves the upscaled images and extracted text in the respective folders.
 * Repeat the process every 10 seconds or press 'Enter' to scan images manually.
-* 
+
 ---
 
 ## License
