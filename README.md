@@ -58,8 +58,8 @@ You can run the script in two ways:
 ### Script Workflow:
 
 * The script will continuously monitor the user images to upscale folder for any new images.
-* It will upscale the images by a factor of 2, enhance them using a sharpening filter, and save them in the upscaled images folder.
-* It will extract text from the upscaled images using Tesseract OCR and save the text in .txt files inside the extracted_texts folder.
+* It will upscale the images by a factor of 2, enhance them using a sharpening filter, and save them in the "upscaled images" folder.
+* It will extract text from the upscaled images using Tesseract OCR and save the text in .txt files inside the "extracted_texts" folder.
 * The script will prompt you every 10 seconds to manually trigger the scan or type 'exit' to quit the program.
 
 Example Workflow:
