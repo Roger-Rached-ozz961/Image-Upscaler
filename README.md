@@ -59,7 +59,7 @@ You can run the script in two ways:
 
 ## License
 
-You can include a license here once you decide which one fits your needs.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---
 
